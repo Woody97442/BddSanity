@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'React Componant',
+  title: 'React Component',
 
   projectId: 'sav6siqx',
   dataset: 'production',
